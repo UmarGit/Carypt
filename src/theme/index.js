@@ -165,17 +165,6 @@ export default {
     nav: {
       display: ['none', null, 'inline-block'],
       p: 2,
-      // transitionProperty: 'background-color',
-      // transitionTimingFunction: 'ease-out',
-      // transitionDuration: '.2s',
-      // borderRadius: 2,
-      // '&:hover': {
-      //   bg: 'highlight',
-      // },
-      // '&.active': {
-      //   color: 'primary',
-      //   bg: 'highlight',
-      // },
     },
     footer: {
       display: 'block',

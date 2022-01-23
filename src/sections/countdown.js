@@ -5,9 +5,9 @@ import image from 'assets/countdown.png';
 
 const deadline = new Date(Date.parse(new Date()) + 12 * 24 * 60 * 60 * 1000);
 const COUNTDOWN_DATA = {
-  title: 'Take control of your credit and identity.',
+  title: 'Secure, affordable, and easy',
   text:
-    'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore magna aliqua minim Lorem ipsum dolor sit amet consectetur.',
+    'All transactions are secured by blockchain technology and all payment information is encrypted with the latest security standards. We offer competitive rates for rentals, allowing you to save up to 30% when renting a car with Carypt!',
   button: {
     link: '#',
     label: 'Buy Tokens',

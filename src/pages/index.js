@@ -20,7 +20,7 @@ export default function IndexPage() {
         <Layout>
           <Seo
             title="Carypt"
-            description="Collection of free top of the line startup landing templates built using react/ next js. Free to download, simply edit and deploy! Updated weekly!"
+            description="Carypt is a blockchain-powered car rental platform that enables you to rent cars from ethereum holders. Carypt uses smart contracts to store vehicle data and records in a secure and transparent manner."
           />
           <Banner />
           <WhyChoose />

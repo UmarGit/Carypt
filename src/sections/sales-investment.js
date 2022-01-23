@@ -3,9 +3,9 @@ import { Box, Container, Flex, Heading, Text, Link } from 'theme-ui';
 import graph from 'assets/graph.png';
 const SALES_INVESTMENT_DATA = {
   image: graph,
-  title: 'Total Investment sale from last year transaction',
+  title: 'Save time with one-click approval',
   text:
-    'Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor incididunt labore dolore magna aliqua minim Lorem ipsum dolor sit amet consectetur.',
+    'No need to spend time sending documentation or filling out forms when renting a car from Carypt. Approval is fast and hassle-free thanks to our unique KYC process!',
   button: {
     link: '#',
     label: 'Learn More',

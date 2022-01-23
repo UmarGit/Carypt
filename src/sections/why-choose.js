@@ -6,8 +6,8 @@ import icon3 from 'assets/why-choose-3.svg';
 import icon4 from 'assets/why-choose-4.svg';
 const WHY_CHOOSE_DATA = {
   blockTitle: {
-    title: 'Why you choose TheCoin',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing',
+    title: 'Why you choose Carypt',
+    text: 'Because we trust you and provide you the world class security',
   },
   posts: [
     {
